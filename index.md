@@ -1,6 +1,6 @@
 # BreierFins
 
-![BreierFins%2095b40144f5d2440daeece3a186084f27/icfe-WechatIMG3.jpeg](BreierFins%2095b40144f5d2440daeece3a186084f27/icfe-WechatIMG3.jpeg)
+![1.jpeg](img/1.jpeg)
 
 阿萨德立刻就发；l
 
