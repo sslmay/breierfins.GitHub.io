@@ -1,43 +1,32 @@
-# BreierFins
-# 123
+# What would happen if you used **Breier** fins to enter the UWH race
 ![1.jpeg](img/1.jpeg)
 
-阿萨德立刻就发；l
+## Here’s the thing
 
-fawefadgawegasdfas
+### bug
 
-asd
+I’m a beginner and bought the latest Breier 450BH3SG through Mr.YANG Wenjie, the Chinese brand agent
+here is the bill.
+![b1.png(img/b1.png)
 
-adg
+### After 5 uses only!!!!!
 
-ae
+It’s just normal use. Both fins are broken. I’m not the only one in this situation. To understand that other people are also damaged in varying degrees.
 
-a
+![l1.jpg](img/l1.jpg)
+![l2.jpg](img/l2.jpg)
+![r1.jpg](img/r1.jpg)
+![r2.jpg](img/r2.jpg)
 
-eg
+### UHW race
 
-aest
+Before the race, I was told to use shoe glue to try and fix it
+![g1.jpeg](img/g1.jpeg)
 
-eg
-
-qwgas
-
-t
-
-w
-
-ga
-
-sd
-
-g
-
-asefasdfargasg
-
-s
+Of course, We lost the game
+![g2.jpeg](img/g2.jpeg)
 
 
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sslmay/sslmay.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
