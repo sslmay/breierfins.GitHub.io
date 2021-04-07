@@ -27,7 +27,7 @@ about detail
 [right](img/r1.jpg)
 [right](img/r2.jpg)
 
-### UHW race
+### UWH race
 
 Before the race, I was told to use shoe glue to try and fix it
 
@@ -88,7 +88,7 @@ about detail
 [right](img/r1.jpg)
 [right](img/r2.jpg)
 
-### UHW race
+### UWH race
 
 
 Avant la course, on m’a demandé d’utiliser la colle de chaussures pour essayer et la corriger.
